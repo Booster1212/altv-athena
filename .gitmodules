@@ -1,0 +1,3 @@
+[submodule "src/core/plugins/plugin-hud"]
+	path = src/core/plugins/plugin-hud
+	url = https://github.com/Booster1212/plugin-hud
